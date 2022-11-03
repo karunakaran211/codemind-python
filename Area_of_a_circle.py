@@ -1,3 +1,3 @@
 a=int(input())
-b=3.14*a*a
-print("{:.2f}".format(b))
+b=a*a*3.14
+print(b)
